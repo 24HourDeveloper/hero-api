@@ -1,0 +1,15 @@
+{
+  "name": "hero-api",
+  "version": "1.0.0",
+  "description": "An api that stores fictional and none fictional heros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Michael Moore",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
